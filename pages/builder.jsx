@@ -60,7 +60,7 @@ export default function Builder(props) {
         }}
       >
         <Meta
-          title="Andrei Bucalau - CV"
+          title="Curriculum Vitae"
         />
         <div className="f-col gap-4 md:flex-row justify-evenly max-w-7xl md:mx-auto md:h-screen">
           {!formClose && (
